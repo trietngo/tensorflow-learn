@@ -1,2 +1,3 @@
 # tensorflow-learn
-Simple TensorFlow Projects
+
+TensorFlow Project: Rent Price Prediction
